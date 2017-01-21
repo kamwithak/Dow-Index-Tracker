@@ -1,3 +1,4 @@
 # Dow-Index-Tracker
-Python script that downloads stock price information for each stock that makes the dow jones. (thirty companies)
-Dedicated to each company, thirty different excel files are created with ready to graph (price x time) data
+Price downloader for each security of the dow jones industrial average. (thirty companies)
+Thirty different excel files are created with ready to graph (price x time) entries for the trading day
+Minute data collected using Bloomberg API
