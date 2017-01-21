@@ -1,5 +1,5 @@
 # Dow-Index-Tracker
-Price downloader for each security of the dow jones industrial average. (30 companies)
+Price downloader for each security of the dow jones industrial average  (thirty companies)
 
 Thirty different excel files are created with ready-to-graph entries for the trading day
 
