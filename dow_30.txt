@@ -1,5 +1,5 @@
-AXP
 AAPL
+AXP
 BA
 CAT
 CSCO
